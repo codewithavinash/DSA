@@ -48,10 +48,11 @@ public class QuickSort {
     //Driver Code
     public static void main(String[] args) {
         QuickSort sort = new QuickSort();
-        int Array[]={3,24,52,45,5,63,10,65535};
+        int Array[]={3,3,24,52,0,45,5,63,10,65535};
         int n = Array.length;
         sort.QuickSort(Array,0,n-1);
         sort.display(Array,n);
     }
 
 }
+
