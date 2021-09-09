@@ -1,0 +1,3 @@
+C:/Users/AvinashThakur/CLionProjects/2maxmin/cmake-build-debug/CMakeFiles/2maxmin.dir
+C:/Users/AvinashThakur/CLionProjects/2maxmin/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AvinashThakur/CLionProjects/2maxmin/cmake-build-debug/CMakeFiles/rebuild_cache.dir
