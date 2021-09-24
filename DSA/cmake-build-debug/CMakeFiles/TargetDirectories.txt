@@ -1,0 +1,3 @@
+D:/Tutorial files/DSA/cmake-build-debug/CMakeFiles/DSA.dir
+D:/Tutorial files/DSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Tutorial files/DSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
